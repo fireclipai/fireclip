@@ -1,0 +1,7 @@
+streamlit
+requests
+pillow
+numpy
+imageio
+imageio-ffmpeg
+huggingface_hub
